@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi everyone!
 
-<!--
-**omgitzjoe/omgitzjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+- Computer Science Major graduating December 2026.
+- I love a challenge; whether thats a puzzle, algorithm, or project.
+- If there is something I know nothing about, it becomes my next obsession.
+- Always looking to improve the efficiency or capability of what I'm working on.
+- Sci-fi and future tech will always be an interest. 
+- Father of four who knows the art of prioritizing and making the most of one's time.
+  
+# Platforms
+- Any language is within reach and I consider myself a Full-Stack Developer.
+- App development is a recent focus of mine. 
+- Avid gamer who naturally gamifies current projects, increasing quality and speed.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Reach me
+- Here on github!
+- LinkedIn at linkedin.com/in/joseph-h-tolley
+- Phone: 801-762-7674
